@@ -1,15 +1,17 @@
-ebook_metadata:
+id: P000136
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། འཇམ་མགོན་བླ་མ་མི་ཕམ་འཇམ་དབྱངས་རྣམ་རྒྱལ་རྒྱ་མཚོའི་རྣམ་ཐར་གསོལ་འདེབས་ཀྱི་འགྲེལ་བ་མཚོ་བྱུང་དཔལ་མོ་དགྱེས་པའི་རྒྱུད་མང་ཞེས་བྱ་བ་བཞུགས།
     །
   authors:
   - མཛད་པ་པོ། ༧སྐྱབས་རྗེ་དིལ་མགོ་མཁྱེན་བཙེ་རིན་པོ་ཆེ།
-  sku: SHE-DKR-13
   layers:
   - book_title
   - author
   - quotation
   - sabche
   - yigchung
+  id: SHE-DKR-13
 web_metadata:
   title:
     en: A Lute Bringing Joy to Sarasvati:A Commentary on the Verse Biography of Mipham
